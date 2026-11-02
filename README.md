@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! Eu sou Vinicius Valter Moura Lopes
 
-<!--
-**L0P3S-ls/L0P3S-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Engenharia de Software**
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e tenho interesse em aprender cada vez mais sobre desenvolvimento de software. Atualmente, estou no início da minha jornada na programação, desenvolvendo meus conhecimentos e colocando em prática o que aprendo na faculdade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse principalmente em desenvolvimento Front-end e Back-end, buscando entender como as aplicações são construídas tanto na parte visual quanto na parte lógica.
+
+## Tecnologias e Ferramentas
+
+Atualmente estudando:
+
+- C
+- Java
+- MySQL
+- HTML e CSS
+- Lógica de Programação
+- Git e GitHub
+
+## O que estou aprendendo
+
+- Desenvolvimento Front-end
+- Desenvolvimento Back-end
+- Banco de Dados
+- Engenharia de Software
+- Boas práticas de programação
+
+## Meus objetivos
+
+Quero evoluir como desenvolvedor, ganhar experiência com projetos práticos, aprender novas tecnologias e construir uma carreira na área de desenvolvimento de software.
+
+## Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/vinicius-lopes/
+- **GitHub:** https://github.com/L0P3S-ls
+
