@@ -31,6 +31,6 @@ Quero evoluir como desenvolvedor, ganhar experiência com projetos práticos, ap
 
 ## Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/vinicius-lopes/
+- **LinkedIn:** https://www.linkedin.com/in/vinicius-llopes/
 - **GitHub:** https://github.com/L0P3S-ls
 
